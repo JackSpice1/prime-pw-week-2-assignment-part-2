@@ -26,9 +26,9 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
+// We make a variable called name and set it to Dane as the name
+// We set a conditional statement that if the name is equal to Mary, we console.log 'Hi, Mary!'
+// If the name does not equal 'Mary' we console.log 'How do you do?'
 //
 
 //CODE
@@ -45,10 +45,10 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We make two variables, one called secret and one called code. We set code to equal 123
+// We set a condition that if code is equal to 123, we console.log 'super'. We let our variable secret be called 'super'
+// We let our variable code be code multiplied by 2. We set a condition that if code is greater than 250 console.log will be 'duper'
+//123 multipled by 2 is equal to less than 250, therefore we console.log secret
 
 //CODE
 /*
@@ -70,9 +70,9 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
+// We set a variable of isStudent to be true. We make a variable called age and set it to 34. We make a variable called zip and set it to 55407
+// We set a conditional statement that if isStudent is equal to true and zip is less than 8000 we console.log 'You're a Student on the West Coast!" but if is Student is false and age is less than 30 console.log 'What are your hobbies?'
+// We set a conditional statement that if isStudent is true console.log 'Welcome to Prime!' but if isStudent is false console.log 'How about the weather?' 
 //
 
 //CODE
@@ -129,6 +129,7 @@ if (number >= 2) {
 // colorTwo is set to 'red', and mix is set to true. We check if mix is true 
 // -- it is, so we set colorOne and colorTwo to 'purple'
 
+//FIX - colorOne is currently set to 'red', change colorOne to 'blue' and colorTwo to red
 /*
 let colorOne = 'red';
 let colorTwo = 'blue';
@@ -143,6 +144,7 @@ if (mix === true) {
 // We check if temp is higher than 39 and if time is greater or equal to  4 
 // -- they are so we console.log 'throw away the food!'
 
+//FIX 
 /*
 let temp = 40;
 const time = 4;
